@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
+		"name": "Binoks",
+		"description": " Une Solution Intelligente pour la Gestion Scolaire",
 		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"url": "https://binoks.com"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"name": "Citizen Lab Mauritanie",
+		"description": "Plateforme d’information citoyenne en Mauritanie",
 		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"url": "https://citizenlabmauritanie.org"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
+		"name": "Dialogue Migration",
+		"description": "Plateforme d’informations sur les migrations",
 		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"url": "https://dialoguemigration.com"
 	}
 ]
